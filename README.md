@@ -1,2 +1,2 @@
 # software-requirements-hangman
-Repository focused on requirements elicitation for an online hangman game, covering problem analysis, definition of functional and non-functional requirements, and document versioning using Git with semantic commits, supporting structured software documentation practices.
+This repository focuses on the software engineering process rather than on implementing the hangman game itself. It aims to analyze the problem domain and define clear software requirements, emphasizing requirements elicitation, structured documentation, version control with Git, and organized publication practices.
